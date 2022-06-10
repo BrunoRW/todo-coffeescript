@@ -33,6 +33,7 @@ create = ->
             create();
         el.append btel
         root.append el
+        inp.value = "";
 
 getLocal();create();
 

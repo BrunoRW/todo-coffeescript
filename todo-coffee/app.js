@@ -43,7 +43,8 @@
         return create();
       });
       el.append(btel);
-      results.push(root.append(el));
+      root.append(el);
+      results.push(inp.value = "");
     }
     return results;
   };
