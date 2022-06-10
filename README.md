@@ -1,15 +1,15 @@
-INSTALL
+#INSTALL
 
-# -g or --global
+-g or --global
 npm install -g coffeescript
 
-COMPILE - MANUAL
+# COMPILE - MANUAL
 
-# -c or --compile 
+-c or --compile 
 coffee -c archiveName.coffee
 
-COMPILE - AUTO
+# COMPILE - AUTO
 
-# -wc or --watch --compile
-# recompile it every time the file is saved
+ -wc or --watch --compile
+recompile it every time the file is saved
 coffee -wc archiveName.coffee 
