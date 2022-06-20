@@ -2,10 +2,6 @@
 
 npm install -g coffeescript <br>
 
-### COMPILE - MANUAL
-
-coffee -c archiveName.coffee <br>
-
 ### COMPILE - AUTO
 
 coffee -wc archiveName.coffee <br>
