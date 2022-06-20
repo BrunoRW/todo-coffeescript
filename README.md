@@ -1,4 +1,4 @@
-# INSTALL
+### INSTALL
 
 -g or --global <br>
 npm install -g coffeescript <br>
