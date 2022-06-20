@@ -3,12 +3,12 @@
 -g or --global <br>
 npm install -g coffeescript <br>
 
-# COMPILE - MANUAL
+### COMPILE - MANUAL
 
 -c or --compile <br>
 coffee -c archiveName.coffee <br>
 
-# COMPILE - AUTO
+### COMPILE - AUTO
 
  -wc or --watch --compile <br>
 coffee -wc archiveName.coffee <br>
